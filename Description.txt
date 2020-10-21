@@ -1,6 +1,6 @@
 Code 1: "Cantilever_beam.m" contains the code of Example 1 and 2 from the paper "https://doi.org/10.1007/s13349-018-0317-0".
 Code 2: "Fixed_Fixed_beam.m" contains the code of Example 3 from the paper "https://doi.org/10.1007/s13349-018-0317-0".
-Code 3: "Space_frame.m" contains the code of Example 4 from the paper "https://doi.org/10.1007/s13349-018-0317-0". 
+ 
 
 If using the code, cite 
 

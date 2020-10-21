@@ -4,7 +4,7 @@
 % using vibration data. J Civil Struct Health Monit 9, 137–151 (2019). 
 % https://doi.org/10.1007/s13349-018-0317-0
 
-function [bestnest,fmin]=cantilever()
+function [bestnest,fmin]=Cantilever_beam()
 
 clc;
 clear;
